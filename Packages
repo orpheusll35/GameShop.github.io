@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.evynw.ew1msgbubbles
+Version: 1.9.0.7
+Section: Tweaks
+Maintainer: Orpheus
+Depends: Firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .deb/com.ew1msgbubbles_1.1_iphoneos-arm-deb
+Size: 500
+MD5sum: c400b031fcb805b752f003346b855e7f
+Description: Deneme
+Name: Deneme Tweaks
+Author: Orpheus
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1msgbubbles
