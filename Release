@@ -1,9 +1,9 @@
-Origin: Evelyn's Collection
-Label: Evelyn's Collection
+Origin: Orpheus Repo
+Label: Orpheus Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Evelyn's Repo
+Description: Orpheus Repo
  
