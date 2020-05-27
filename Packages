@@ -26,3 +26,19 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.evynw.lse211
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew211_1.0_iphoneos-arm.deb
+Size: 1078414
+MD5sum: 85b31b655feda61a294750c4141d8ad4
+SHA1: 20ad51bb3f696ab208b3e7c1ef6ae5ca80663c00
+SHA256: ddd1fb64d9cfabb3c68b773a6a1cfce319c766eef3f6dcee92f14211930fc192
+Section: Lockscreen Widgets
+Description: Somehow a familiar-looking widget.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew211
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW211
